@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Larger blue circle in back -->
+    <item android:drawable="@drawable/white_circle_frame_background" />
+    <item android:drawable="@drawable/take_photo_button" />
+</layer-list>

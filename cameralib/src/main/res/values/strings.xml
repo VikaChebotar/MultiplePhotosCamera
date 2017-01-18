@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cameraLib</string>
+    <string name="camera_permission_confirmation">App cannot work without camera permission</string>
+    <string name="camera_permission_not_granted">App cannot work without camera permission</string>
+</resources>
